@@ -3,4 +3,4 @@
 #### Email: tarrox16@yahoo.com
 #### Image:
 
-![My Pic](./Me.jpg)
+![My Pic](/Me.jpg)
